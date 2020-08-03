@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi, I'm skidd0. Here's my website: https://skidd0.com
 
-<!--
-**skidd0/skidd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Toolbox 
+ * Lisp
+ * Python
+ * HTML/CSS
+ * JavaScript
+ 
+# Skillset
+ * Fullstack web development
+ * Machine Learning
+ * Some Data Science
+ 
+# Fun Stuff
+ * Modular Synths - Eurorack
+ * Hacky Sack / Footbag
+ * Game Development
