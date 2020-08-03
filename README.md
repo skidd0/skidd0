@@ -1,4 +1,4 @@
-Hi, I'm skidd0. Here's my website: https://skidd0.com
+Hi, I'm skidd0. Here's my website: http://skidd0.com
 
 # Toolbox 
  * Lisp
